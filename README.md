@@ -1,2 +1,2 @@
 # clon-new
-Template repository for new CLON packages
+Шаблон для новых модулей языка CLON
